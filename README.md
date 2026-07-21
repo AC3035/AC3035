@@ -2,7 +2,7 @@
 
 <h2>Active Directory Projects:</h2>
 
-  - [Connecting a Windows 11 Client to a Domain Controller.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Connecting a Windows 11 Client to a Domain Controller.](https://github.com/AC3035/ConnectWin11ToDC)
 
 
 <h2>Connect with me:</h2>
