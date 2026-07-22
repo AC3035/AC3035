@@ -4,6 +4,7 @@
 
   - [Connecting a Windows 11 Client to a Domain Controller.](https://github.com/AC3035/ConnectWin11ToDC)
   - [Adding Users and Groups to Active Directory.](https://github.com/AC3035/AddingUsersAndGroupsToAD)
+  - [Resolving a locked out user account.](https://github.com/AC3035/ResolvingLockedOutAccount)
 
 
 <h2>Connect with me:</h2>
